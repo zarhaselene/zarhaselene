@@ -1,6 +1,6 @@
 ## Hello there, I'm Zarha 👋
 
-I'm a front-end developer student currently studying at Chas Academy in Stockholm, gaining hands-on experience in building interactive and visually engaging web applications. 
+I'm a front-end developer currently studying at Chas Academy in Stockholm, gaining hands-on experience in building interactive and visually engaging web applications. 
 
 ### 👩🏼‍💻 I’m currently working on:
 - A portfolio project showcasing my front-end development skills, including interactive elements and responsive design.
