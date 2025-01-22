@@ -3,22 +3,24 @@
 I'm a front-end developer currently studying at Chas Academy in Stockholm, gaining hands-on experience in building interactive and visually engaging web applications. 
 
 ### 👩🏼‍💻 I’m currently working on:
-- A portfolio project showcasing my front-end development skills, including interactive elements and responsive design.
-
+🔹 A Next.js project integrating AI functionality using the Gemini API in collaboration with a team. 
+<br>
+🔹 A portfolio project showcasing my front-end development skills, including interactive elements and responsive design.
+  
 ### 🌱 I’m currently learning:
-- **JavaScript**: Foundations of programming, including variables, functions, and arrays.
-- **Responsive Web Design**: Techniques for creating mobile-first, user-friendly websites.
-- **CSS Fundamentals**: Key properties like the box model, positioning, flexbox, and grid layout.
-- **Web Development Skills**: User interaction, API integration, Node.js, and Express.
+- **Advanced JavaScript**: Deepening my understanding of functions, arrays, and object manipulation.
+- **React & Next.js**: Enhancing user experience with dynamic and performant applications.
+- **AI Integration**: Exploring AI-powered features and API implementation.
+- **Responsive Web Design**: Creating mobile-first, accessible, and user-friendly interfaces.
 - **Project Development**: Agile methodologies and collaboration techniques through workshops.
 
 ### 🎓 What I'll have learned:
 By June 2026, upon graduating, I will have developed a strong skill set in:
-1. **Web Development**: Building responsive and accessible applications.
-2. **UX and Accessibility**: Understanding design principles and standards.
-3. **React**: Creating dynamic user interfaces.
-4. **Backend Development**: Familiarity with server-side concepts.
-5. **TypeScript**: Building robust applications.
+
+- **Full-Stack Web Development** – Proficiency in both front-end and back-end technologies.
+- **UX & Accessibility** – Applying design principles for inclusive web experiences.
+- **TypeScript** – Writing scalable and maintainable applications.
+- **API Development & Integration** – Connecting front-end applications with robust APIs.
 
 ### 📅 Internship Opportunities:
 - I'm seeking a **summer internship for 2025** and **internship opportunities starting November 10, 2025, through April 26, 2026**.
@@ -28,4 +30,4 @@ By June 2026, upon graduating, I will have developed a strong skill set in:
 - Email: [zarhaselene@gmail.com](mailto:zarhaselene@gmail.com)
 
 ### 🤝 Let's collaborate!
-If you're interested in collaborating or have internship opportunities, feel free to reach out!
+If you're interested in working together or have internship opportunities, feel free to reach out! 🚀
