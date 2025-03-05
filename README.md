@@ -27,7 +27,7 @@ By June 2026, upon graduating, I will have developed a strong skill set in:
 
 ### 📫 How to reach me:
 - [LinkedIn](https://www.linkedin.com/in/zarhabuske)
-- Email: [zarhaselene@gmail.com](mailto:zarhaselene@gmail.com)
+- Email: [zarhabuske@hotmail.com](mailto:zarhabuske@hotmail.com)
 
 ### 🤝 Let's collaborate!
 If you're interested in working together or have internship opportunities, feel free to reach out! 🚀
