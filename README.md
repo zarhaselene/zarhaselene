@@ -3,7 +3,7 @@
 I'm a front-end developer currently studying at Chas Academy in Stockholm, gaining hands-on experience in building interactive and visually engaging web applications. 
 
 ### 👩🏼‍💻 I’m currently working on:
-🔹 A Next.js project integrating AI functionality to create a personalized and user-centric application.
+🔹 Collaborating on a Next.js project that integrates AI to assist users in applying for workplace assistive devices.
 <br>
 🔹 A portfolio project showcasing my front-end development skills, including interactive elements and responsive design.
   
