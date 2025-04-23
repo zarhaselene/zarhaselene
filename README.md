@@ -1,30 +1,29 @@
 ## Hello there, I'm Zarha 👋
 
-I'm a front-end developer currently studying at Chas Academy in Stockholm, gaining hands-on experience in building interactive and visually engaging web applications. 
+Front-end developer studying at Chas Academy in Stockholm, building interactive web applications with an eye for design and accessibility.
 
-### 👩🏼‍💻 I’m currently working on:
-🔹 Collaborating on a Next.js project that integrates AI to assist users in applying for workplace assistive devices.
+### 👩🏼‍💻 Current Projects
+🔹 Collaborating on a Next.js project integrating AI for workplace assistive device applications.
 <br>
-🔹 A portfolio project showcasing my front-end development skills, including interactive elements and responsive design.
+🔹 Developing a portfolio showcasing my front-end skills with interactive elements and responsive design.
   
-### 🌱 I’m currently learning:
-- **React & Next.js**: Enhancing user experience with dynamic and performant applications.
-- **AI Integration**: Exploring AI-powered features and API implementation.
-- **Project Development**: Agile methodologies and collaboration techniques through workshops.
+### 🌱 Currently learning:
+- **React & Next.js**: Creating dynamic and performant applications.
+- **AI Integration**: Implementing AI-powered features and APIs.
+- **Project Development**: Applying collaborative methodologies through workshops.
 
-### 🎓 What I'll have learned:
-By June 2026, upon graduating, I will have developed a strong skill set in:
+### 🎓 Skills in Development (Graduating June 2026)
+- **Full-Stack Web Development**
+- **Mobile Development with React Native**
+- **UX & Accessibility** 
+- **TypeScript**
+- **API Development & Integration** 
 
-- **Full-Stack Web Development** – Proficiency in both front-end and back-end technologies.
-- **Mobile Development with React Native** – Building cross-platform mobile apps.
-- **UX & Accessibility** – Applying design principles for inclusive web experiences.
-- **TypeScript** – Writing scalable and maintainable applications.
-- **API Development & Integration** – Connecting front-end applications with robust APIs.
+### 📅 Internship Availability:
+- **Summer 2025**
+- **November 10, 2025 - April 26, 2026**
 
-### 📅 Internship Opportunities:
-- I'm seeking a **summer internship for 2025** and **internship opportunities starting November 10, 2025, through April 26, 2026**.
-
-### 📫 How to reach me:
+### 📫 Connect With Me:
 - [LinkedIn](https://www.linkedin.com/in/zarhabuske)
 - Email: [zarhabuske@hotmail.com](mailto:zarhabuske@hotmail.com)
 
