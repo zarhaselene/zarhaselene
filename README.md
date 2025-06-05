@@ -20,5 +20,6 @@ Front-end developer studying at Chas Academy in Stockholm, building interactive 
 - **API Development & Integration** 
 
 ### 📫 Connect With Me:
+- [Portfolio](https://zarhaselene.com/)
 - [LinkedIn](https://www.linkedin.com/in/zarhabuske)
 - Email: [zarhabuske@hotmail.com](mailto:zarhabuske@hotmail.com)
