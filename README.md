@@ -19,13 +19,6 @@ Front-end developer studying at Chas Academy in Stockholm, building interactive 
 - **TypeScript**
 - **API Development & Integration** 
 
-### 📅 Internship Availability:
-- **Summer 2025**
-- **November 10, 2025 - April 26, 2026**
-
 ### 📫 Connect With Me:
 - [LinkedIn](https://www.linkedin.com/in/zarhabuske)
 - Email: [zarhabuske@hotmail.com](mailto:zarhabuske@hotmail.com)
-
-### 🤝 Let's collaborate!
-If you're interested in working together or have internship opportunities, feel free to reach out! 🚀
