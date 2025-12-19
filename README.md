@@ -1,25 +1,36 @@
-## Hello there, I'm Zarha 👋
+<div align="center">
 
-Front-end developer studying at Chas Academy in Stockholm, building interactive web applications with an eye for design and accessibility.
+# hello there, i'm zarha 👋
 
-### 👩🏼‍💻 Current Projects
-🔹 Collaborating on a Next.js project integrating AI for workplace assistive device applications.
-<br>
-🔹 Developing a portfolio showcasing my front-end skills with interactive elements and responsive design.
-  
-### 🌱 Currently learning:
-- **React & Next.js**: Creating dynamic and performant applications.
-- **AI Integration**: Implementing AI-powered features and APIs.
-- **Project Development**: Applying collaborative methodologies through workshops.
+**full-stack developer based in stockholm**  
+*building interactive web applications with an eye for design and accessibility*
 
-### 🎓 Skills in Development (Graduating June 2026)
-- **Full-Stack Web Development**
-- **Mobile Development with React Native**
-- **UX & Accessibility** 
-- **TypeScript**
-- **API Development & Integration** 
+---
 
-### 📫 Connect With Me:
-- [Portfolio](https://zarhaselene.com/)
-- [LinkedIn](https://www.linkedin.com/in/zarhabuske)
-- Email: [zarhabuske@hotmail.com](mailto:zarhabuske@hotmail.com)
+### what i work with
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zarhaselene&layout=compact&theme=dracula&title_color=dcd7c9&text_color=dcd7c9&bg_color=2c3930&hide_border=true" />
+
+---
+
+### a bit about me
+
+studying frontend at chas academy → graduating june 2026  
+focused on accessible design and clean code  
+currently interning full-time at [@TheGeneration](https://github.com/TheGeneration)
+
+---
+
+### let's connect
+
+<a href="https://zarhaselene.com/" target="_blank">
+  <img src="https://img.shields.io/badge/portfolio-2c3930?style=for-the-badge&logo=google-chrome&logoColor=dcd7c9" />
+</a>
+<a href="https://www.linkedin.com/in/zarhabuske" target="_blank">
+  <img src="https://img.shields.io/badge/linkedin-2c3930?style=for-the-badge&logo=linkedin&logoColor=dcd7c9" />
+</a>
+<a href="mailto:zarhabuske@hotmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/email-2c3930?style=for-the-badge&logo=gmail&logoColor=dcd7c9" />
+</a>
+
+</div>
